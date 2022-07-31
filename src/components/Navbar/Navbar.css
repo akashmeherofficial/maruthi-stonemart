@@ -36,14 +36,14 @@
 .leftnav{
     float: left;
     cursor: pointer;
-    margin: 0 0 0 4em;
+    margin: 0 2em 0 4em;
 }
 .leftnav h1{
     color: #86C232;
     letter-spacing: 0.07em;
     font-weight:1000;
     font-size: 1.2em;
-    margin:0 4em 0 2em;
+    margin:0 2em 0 4em;
     z-index: 1;
 }
 
@@ -89,7 +89,7 @@
     color: white;
     border: 1px solid white;
     border-radius: 5px;
-    margin:0 4em;
+    margin:0 2em;
     padding:0.5em 2.2em;
     border-radius: 20px;
     
