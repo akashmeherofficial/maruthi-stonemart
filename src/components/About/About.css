@@ -1,0 +1,44 @@
+.about{
+    /* position: relative; */
+    background-image: linear-gradient(to top right, #001510,#00bf8f,#00bf8f8f,#00bf8f2b,rgba(255, 255, 255, 0.403),#fff);
+    height: 100vh;
+    width: auto;
+    overflow-x: hidden;
+  
+}
+.headingab{
+    text-align: center;
+    font-weight: bolder;
+    padding:2em 0;
+    width: auto;
+    color: #00bf8f;
+    text-shadow: 1px 1px #14141469;
+    
+    
+}
+
+.cards{
+    padding: 2em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    font-size: 0.8em;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 1em;
+    margin: 2em;
+   
+    border: none;
+    box-shadow: 1px 1px 20px 2px #141414;
+}
+
+.card p{
+    color: #fff;
+    text-align: justify;
+}
+.card h3{
+
+    text-align: center;
+    color: #fff;
+}

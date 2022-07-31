@@ -1,0 +1,14 @@
+.reviews{
+    height: 10em;
+    border: 1px solid #FFC837;
+    padding: 1em;
+    width: 40vh;
+    margin: 2em;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.reviewsbox{
+    display: flex;
+    flex-direction: row;
+}
